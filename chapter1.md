@@ -15,7 +15,5 @@ It will support:
 
 Your application should have similar requirements or you should be able to make an analogy of how you are going to use the system and hardware to power your application.
 
-
-
-
+And we need a name ... Glow Energy Application will do for now.
 
